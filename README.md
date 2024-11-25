@@ -1,5 +1,5 @@
 # Polyps Segmentation
-
+![Leaderboard](image.png)
 ## Installation
 
 Clone the repository:
