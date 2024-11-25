@@ -1,2 +1,5 @@
 numpy
 torch
+albumentations
+argparse
+opencv-python
