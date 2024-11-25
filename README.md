@@ -6,6 +6,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/IamKrill1n/Polyps-Segmentation.git
+```
 
 Download the model from this link and put it in folder named model_checkpoint:
 
