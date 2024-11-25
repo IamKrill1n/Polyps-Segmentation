@@ -16,9 +16,9 @@ https://drive.google.com/file/d/1y75J_3kNfIf6l2243SdYOd1iDBjOHHKr/view?usp=shari
 
 Other models that were used in ensemble submission can be found in:
 ```bash
-https://www.kaggle.com/datasets/doppelganger77/unetplusplus-resnet34/data
+https://www.kaggle.com/datasets/doppelganger77/unetplusplus-resnet34
 https://www.kaggle.com/datasets/anhtu77/unetplusplus-resnest
-https://www.kaggle.com/datasets/doppelganger77/unetplusplus-resnet152/settings
+https://www.kaggle.com/datasets/doppelganger77/unetplusplus-resnet152
 ```
 ## Usage
 
