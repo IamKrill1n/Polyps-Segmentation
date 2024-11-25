@@ -20,3 +20,6 @@ To run inference on an image, use the following command:
 ```bash
 python3 infer.py --image_path image.jpeg
 ```
+## Training
+
+To checkout training details, switch to the `feature/train` branch:
